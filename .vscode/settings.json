@@ -1,6 +1,5 @@
 {
     "editor.formatOnSave": true,
-    "python.formatting.provider": "black",
     "files.autoSave":"afterDelay",
     "files.autoSaveDelay": 1000
 }
